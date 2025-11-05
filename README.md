@@ -16,11 +16,11 @@ This Excel-based project offers a comprehensive analysis of Olympic Games data f
 - Data Visualization  
 - Forecasting & Statistical Analysis
 
-## Authors
-Chen Bayazi, Emmanuel Netanya, Amir Ramon, Tamar Ovad, Gal Zeevi.
-
 ## **Download Full Excel File** – available on Google Drive: 
 [Download Full File (Google Drive)](https://drive.google.com/file/d/1RaF8gtOrN5DQyFKme-wAmJH1UC-C39ue/view?usp=sharing)
 
 Note: The full file is larger than 25MB and therefore hosted externally on Google Drive.  
 Please enable macros when opening the Excel file to access automated features.
+
+## Authors
+Chen Bayazi, Emmanuel Netanya, Amir Ramon, Tamar Ovad, Gal Zeevi.
