@@ -14,7 +14,10 @@ This Excel-based project offers a comprehensive analysis of Olympic Games data f
 - Advanced Excel formulas and functions
 - VBA (Macros)  
 - Data Visualization  
-- Forecasting & Statistical Analysis  
+- Forecasting & Statistical Analysis
+
+## Authors
+Chen Bayazi, Emmanuel Netanya, Amir Ramon, Tamar Ovad, Gal Zeevi.
 
 ## **Download Full Excel File** – available on Google Drive: 
 [Download Full File (Google Drive)](https://drive.google.com/file/d/1RaF8gtOrN5DQyFKme-wAmJH1UC-C39ue/view?usp=sharing)
